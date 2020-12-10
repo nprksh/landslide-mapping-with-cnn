@@ -1,0 +1,1 @@
+# landslide-mapping-with-cnn
