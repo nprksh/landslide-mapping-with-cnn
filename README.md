@@ -7,7 +7,7 @@ Code repository for https://www.nature.com/articles/s41598-021-89015-8
 
 A typical machine learning workflow involves creating a small inventory manually to train a supervised model, which is further used to map landslides in the surrounding areas of interest. This saves a lot of time and effort, however, it is still not suitable for a fully automated rapid mapping scenario as human intervention is required for creating the initial training inventory.
  
-This repository has a generalized deep-learning model which can be used to map landslides triggred by large earthquakes or extreme rainfall events. It can be used on medium resolution EO data (resolution: 5 - 10 meters, like Sentinel-2, Rapid-Eye, etc). It can be used directly without training for a specific event / georgaphic location.
+This repository shares a generalized deep-learning model which can be used to map landslides triggred by large earthquakes or extreme rainfall events. It can be used on medium resolution EO data (resolution: 5 - 10 meters, like Sentinel-2, Rapid-Eye, etc). It can be used directly without training for a specific event / georgaphic location.
 
 -----------------------------------------------------
 
