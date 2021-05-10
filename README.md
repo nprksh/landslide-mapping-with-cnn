@@ -24,7 +24,7 @@ Figure: _An overview of proposed U-Net architecture with residual blocks and dee
 # Upcoming in IGARSS 2021 Conference
 # Mapping landslides caused by Storm Alex, October - 2020 (French-Italian Alps) 
 
-![Result of landslide triggred by Storm Alex](\IGARSS-2021\Figure_3.jpg)
+![Result of landslide triggred by Storm Alex](.\IGARSS-2021\Figure_3.jpg)
 
 Result of landslide mapping. (A) The density map showing the distribution of induced landslides identified by the generalized CNN. (B) - (E) Multiple views from the study area showing changes observed in Sentinel-2 images from before and after the triggering event. The landslides identified by the CNN has been marked as red polygons in the post-event images. Figure (E) is an example of false-positive detection due to cloud shadow, which was not identified by the Fmask algorithm.
 
