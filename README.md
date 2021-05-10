@@ -18,3 +18,13 @@ Figure: _Pre-processing workflow adopted for training of CNN. (A) Systematic til
 
 ![overview of proposed U-Net architecture](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-021-89015-8/MediaObjects/41598_2021_89015_Fig8_HTML.png?as=webp)
 Figure: _An overview of proposed U-Net architecture with residual blocks and deep-supervision. The complete description of all the layers in the network is available in Supplementary-Figure Folder._
+
+-----------------------------------------------------
+-----------------------------------------------------
+# Upcoming in IGARSS 2021 Conference
+# Mapping landslides caused by Storm Alex, October - 2020 (French-Italian Alps) 
+
+![Result of landslide triggred by Storm Alex](\IGARSS-2021\Figure_3.jpg)
+
+Result of landslide mapping. (A) The density map showing the distribution of induced landslides identified by the generalized CNN. (B) - (E) Multiple views from the study area showing changes observed in Sentinel-2 images from before and after the triggering event. The landslides identified by the CNN has been marked as red polygons in the post-event images. Figure (E) is an example of false-positive detection due to cloud shadow, which was not identified by the Fmask algorithm.
+
